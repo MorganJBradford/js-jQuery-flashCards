@@ -1,0 +1,23 @@
+#js-showing {
+  display: none;
+}
+
+#operators-showing {
+  display: none;
+}
+
+#variables-showing {
+  display: none;
+}
+
+.clickable1, .clickable2, .clickable3 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable1:hover, .clickable2:hover, .clickable3:hover {
+  text-decoration: underline;
+}
+
+
+
